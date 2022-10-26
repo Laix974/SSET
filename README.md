@@ -1,5 +1,7 @@
 # SSET
+Highly sophisticated unbreakable encryption tool.
 
+# Manual
 NAME
 	SSET - Super Secret Encryption Tool
 
